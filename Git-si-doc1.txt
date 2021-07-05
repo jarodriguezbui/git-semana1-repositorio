@@ -1,2 +1,4 @@
 Texto para prueba en reto Git del curso MinTic2022. 
 Jose A. Rodriguez
+Nueva modificación de archivo.
+Prueba_2
